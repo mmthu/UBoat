@@ -1,0 +1,1 @@
+the communication of JY901 is through TTL uart.so the example program JY901Serial is refered instead of the JY901IIC.
